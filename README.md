@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucas0721@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/analytics/profile-views/)
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorjsss&show_icons=true&theme=tokyonight)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLuvaz&show_icons=true&theme=tokyonight)
 
 ### Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
