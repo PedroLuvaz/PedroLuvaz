@@ -8,7 +8,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:pedrolucas0721@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/pedroandradedev )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/pedro-andrade-0a8146235/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroLuvaz&show_icons=true&theme=tokyonight )
 
@@ -38,7 +38,5 @@ Sou pesquisador e desenvolvedor voluntário no **Núcleo de Tecnologia Educacion
 ### 👨‍💻 Experiência com C#
 
 Minha jornada com **C#** se intensificou durante o desenvolvimento de interfaces intuitivas dentro do NUTES, onde precisei integrar lógica robusta com UX eficiente. Trabalhei em sistemas desktop voltados para treinamento e simulação em saúde, sempre priorizando performance e clareza no código.
-
 ---
 
-> “O código é poesia. A tecnologia, quando bem usada, vira transformação.” – Pedro Andrade
