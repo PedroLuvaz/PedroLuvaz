@@ -1,5 +1,10 @@
 👋 Olá, eu sou Pedro Andrade
-Desenvolvedor e pesquisador com foco em Ciência da Computação e Interação Humano-Computador (IHC). Minha paixão é construir soluções que não apenas funcionam, mas que também oferecem uma experiência de usuário intuitiva e acessível. Atualmente, aplico meu conhecimento como Pesquisador Voluntário no NUTES/UEPB, onde desenvolvo tecnologias assistivas e educacionais.
+Desenvolvedor e pesquisador com foco em Ciência da Computação e Interação Humano-Computador (IHC). Minha paixão é construir soluções que não apenas funcionam, mas que também oferecem uma experiência de usuário intuitiva e acessível. Atualmente, aplico meu conhecimento como Pesquisador Bolsista (PIBIC) no NUTES/UEPB, onde desenvolvo tecnologias assistivas e voltadas para a usabilidade.
+<br></br>
+
+
+
+
 
 💻 Meu Toolkit Tecnológico
 <div style="display: inline-block;">
@@ -13,9 +18,13 @@ Desenvolvedor e pesquisador com foco em Ciência da Computação e Interação H
 <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge"/>
 </div>
 
+<br></br>
 
 
-🚀 Experiência e Contribuições
+
+
+
+🚀 Experiência e Contribuições<br></br>
 Pesquisador Bolsista (PIBIC) | NUTES - UEPB
 Atuo como pesquisador bolsista (PIBIC) no Laboratório de Usabilidade e Fatores Humanos do NUTES. Meu foco é a aplicação de métodos quantitativos para aprimorar a avaliação de interfaces, conectando pesquisa acadêmica com desenvolvimento de software prático.
 
