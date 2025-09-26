@@ -2,10 +2,6 @@
 Desenvolvedor e pesquisador com foco em Ciência da Computação e Interação Humano-Computador (IHC). Minha paixão é construir soluções que não apenas funcionam, mas que também oferecem uma experiência de usuário intuitiva e acessível. Atualmente, aplico meu conhecimento como Pesquisador Bolsista (PIBIC) no NUTES/UEPB, onde desenvolvo tecnologias assistivas e voltadas para a usabilidade.
 <br></br>
 
-
-
-
-
 💻 Meu Toolkit Tecnológico
 <div style="display: inline-block;">
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -16,11 +12,16 @@ Desenvolvedor e pesquisador com foco em Ciência da Computação e Interação H
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"/>
 <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge"/>
 <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge"/>
+<img align="center" alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 <br></br>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroluvaz&show_icons=true&theme=transparent)
 
 
 
