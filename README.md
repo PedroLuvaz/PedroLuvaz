@@ -34,3 +34,75 @@ Desenvolvimento de Ferramentas com C#: Sou responsável pelo desenvolvimento e m
 Avaliação Heurística e Análise de Dados: Aplico metodologias de avaliação heurística baseadas em métricas de desempenho capturadas pelo software. Minha análise envolve a manipulação de grafos para modelar e visualizar as interações do usuário, permitindo a identificação precisa de gargalos e pontos de melhoria na experiência de uso.
 
 Foco em IHC: Traduzo dados quantitativos em insights acionáveis para otimizar a usabilidade e a acessibilidade de sistemas, contribuindo diretamente para a criação de tecnologias mais intuitivas e eficientes no campo da saúde e educação.
+
+
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/PedroLuvaz"> 🔗
+  https://gitfollio.vercel.app/PedroLuvaz
+</a>
+
+<!-- GitFolio:start
+{
+  "gitfolio": "on",
+  "name": "Pedro Andrade",
+  "email": "pedrolucas0721@gmail.com",
+  "tagline": "FullStack Developer",
+  "avatar_url": "https://avatars.githubusercontent.com/u/113270952?v=4",
+  "website": "",
+  "githubUser": "PedroLuvaz",
+  "linkedinUser": "https://www.linkedin.com/in/pedro-andrade-0a8146235/",
+  "about": "Pesquisador PIBIC no NUTES/UEPB, atuo no Laboratório de Usabilidade e Fatores Humanos com foco em IHC. Desenvolvo em C# (.NET) software para mensuração de desempenho em testes de usabilidade, com EntityFramework para persistência de dados. Realizo avaliação heurística e análise quantitativa com grafos, transformando dados em insights para otimizar usabilidade e acessibilidade em saúde e educação.",
+  "showStars": true,
+  "showFollowers": true,
+  "followers": 16,
+  "following": 22,
+  "themeId": "cyberpunk",
+  "tech": [
+  "C#",
+  "Java",
+  "JavaScript",
+  "NodeJs",
+  "Python",
+  "MongoDB",
+  "PostGreSQL",
+  "EntityFramework",
+  ".NET"
+],
+  "projects": [
+  {
+    "id": 616634190,
+    "repoName": "Project-TubeTool",
+    "url": "https://github.com/PedroLuvaz/Project-TubeTool",
+    "stars": 1,
+    "description": "Projeto do primeiro período da universidade na disciplina de algoritmos  construído em Python.",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 948270962,
+    "repoName": "eng2marketplace",
+    "url": "https://github.com/PedroLuvaz/eng2marketplace",
+    "stars": 0,
+    "description": "",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 940328812,
+    "repoName": "sistemaOdonto",
+    "url": "https://github.com/PedroLuvaz/sistemaOdonto",
+    "stars": 0,
+    "description": "",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  }
+]
+}
+GitFolio:end -->
+  
