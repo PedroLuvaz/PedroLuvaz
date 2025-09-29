@@ -36,6 +36,7 @@ Avaliação Heurística e Análise de Dados: Aplico metodologias de avaliação 
 Foco em IHC: Traduzo dados quantitativos em insights acionáveis para otimizar a usabilidade e a acessibilidade de sistemas, contribuindo diretamente para a criação de tecnologias mais intuitivas e eficientes no campo da saúde e educação.
 
 
+
 Acesse meu portfólio em: 
 <a href="https://gitfollio.vercel.app/PedroLuvaz"> 🔗
   https://gitfollio.vercel.app/PedroLuvaz
@@ -97,6 +98,17 @@ Acesse meu portfólio em:
     "url": "https://github.com/PedroLuvaz/sistemaOdonto",
     "stars": 0,
     "description": "",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 564537291,
+    "repoName": "PedroLuvaz",
+    "url": "https://github.com/PedroLuvaz/PedroLuvaz",
+    "stars": 0,
+    "description": "Config files for my GitHub profile.",
     "image": "",
     "techs": [],
     "deploy": "",
