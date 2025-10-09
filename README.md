@@ -1,5 +1,5 @@
 👋 Olá, eu sou Pedro Andrade
-Desenvolvedor e pesquisador com foco em Ciência da Computação e Interação Humano-Computador (IHC). Minha paixão é construir soluções que não apenas funcionam, mas que também oferecem uma experiência de usuário intuitiva e acessível. Atualmente, aplico meu conhecimento como Pesquisador Bolsista (PIBIC) no NUTES/UEPB, onde desenvolvo tecnologias assistivas e voltadas para a usabilidade.
+Desenvolvedor e pesquisador com foco em Ciência da Computação e Interação Humano-Computador (IHC). Minha paixão é construir soluções que não apenas funcionam, mas que também oferecem uma experiência de usuário intuitiva e acessível. Atualmente, aplico meu conhecimento como Pesquisador no NUTES/UEPB, onde desenvolvo tecnologias assistivas e voltadas para a usabilidade.
 <br></br>
 
 💻 Meu Toolkit Tecnológico
@@ -26,8 +26,8 @@ Desenvolvedor e pesquisador com foco em Ciência da Computação e Interação H
 
 
 🚀 Experiência e Contribuições<br></br>
-Pesquisador Bolsista (PIBIC) | NUTES - UEPB
-Atuo como pesquisador bolsista (PIBIC) no Laboratório de Usabilidade e Fatores Humanos do NUTES. Meu foco é a aplicação de métodos quantitativos para aprimorar a avaliação de interfaces, conectando pesquisa acadêmica com desenvolvimento de software prático.
+Pesquisador e Desenvolvedor | NUTES - UEPB
+Atuo como pesquisador  no Laboratório de Usabilidade e Fatores Humanos do NUTES. Meu foco é a aplicação de métodos quantitativos para aprimorar a avaliação de interfaces, conectando pesquisa acadêmica com desenvolvimento de software prático.
 
 Desenvolvimento de Ferramentas com C#: Sou responsável pelo desenvolvimento e manutenção de um software em C# (.NET) projetado para mensuração de desempenho em testes de usabilidade. Utilizo o EntityFramework para a persistência e gerenciamento eficiente dos dados coletados.
 
@@ -52,7 +52,7 @@ Acesse meu portfólio em:
   "website": "",
   "githubUser": "PedroLuvaz",
   "linkedinUser": "https://www.linkedin.com/in/pedro-andrade-0a8146235/",
-  "about": "Pesquisador PIBIC no NUTES/UEPB, atuo no Laboratório de Usabilidade e Fatores Humanos com foco em IHC. Desenvolvo em C# (.NET) software para mensuração de desempenho em testes de usabilidade, com EntityFramework para persistência de dados. Realizo avaliação heurística e análise quantitativa com grafos, transformando dados em insights para otimizar usabilidade e acessibilidade em saúde e educação.",
+  "about": "Pesquisador no NUTES/UEPB, atuo no Laboratório de Usabilidade e Fatores Humanos com foco em IHC. Desenvolvo em C# (.NET) software para mensuração de desempenho em testes de usabilidade, com EntityFramework para persistência de dados. Realizo avaliação heurística e análise quantitativa com grafos, transformando dados em insights para otimizar usabilidade e acessibilidade em saúde e educação.",
   "showStars": true,
   "showFollowers": true,
   "followers": 16,
