@@ -112,7 +112,7 @@ Busco constantemente evoluir como desenvolvedor e pesquisador, explorando novas 
 #### 💼 **Desenvolvedor Back-End | Entrega+**
 **Período:** 2025 — Atual  
 Atuo no desenvolvimento do **Modall**, um sistema de **atendimento automatizado com IA e CRM integrado**, utilizando **Python, FastAPI, Flask, PostgreSQL, Firebase e Google Cloud**.  
-Sou responsável pela arquitetura e manutenção dos serviços backend, integração com APIs e pipelines de dados, e automação de métricas de desempenho.
+Sou responsável por pequenas manutençãoes dos serviços backend, integração com APIs e pipelines de dados, e automação de métricas de desempenho.
 
 > - Criação e manutenção de microsserviços com **FastAPI e Flask**.  
 > - Integração com **Firebase, BigQuery e PostgreSQL**.  
