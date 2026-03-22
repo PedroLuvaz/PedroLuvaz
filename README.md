@@ -1,174 +1,142 @@
-# 🖥☁️🐍 Pedro Andrade - Desenvolvedor Back-End
-
-🚀 Apaixonado por tecnologia, ciência e inovação.  
-💡 Entusiasta por soluções que unem **Inteligência Artificial**, **usabilidade** e **desempenho**.  
-💻 Em constante aprendizado e aprimoramento com foco em **Python, FastAPI, Flask, Java, Spring Boot, Node.js, PostgreSQL, Firebase e Google Cloud**.
-
----
-
-### 🧠 Sobre mim
-
-Sou **Desenvolvedor Back-End na Entrega+** e **estudante de Ciência da Computação**.  
-Atualmente, atuo no desenvolvimento do **Modall**, um sistema de **atendimento automatizado com Inteligência Artificial (IA)** e **CRM integrado**, que busca otimizar o relacionamento entre empresas e clientes através de **automação inteligente e análise de dados**.
-
-Na Entrega+, sou responsável pela **modelagem de APIs**, **integrações com Firebase e BigQuery**, **armazenamento em PostgreSQL** e **deploy em ambientes Google Cloud**.  
-Trabalho com uma arquitetura moderna baseada em **microsserviços e cloud computing**.
-
-Além disso, atuei como **Pesquisador e Desenvolvedor no NUTES/UEPB**, onde desenvolvi **tecnologias assistivas** e **ferramentas de avaliação de usabilidade**, aplicando conceitos de **Interação Humano-Computador (IHC)** e análise quantitativa de métricas com **C# (.NET)**.
-
-Busco constantemente evoluir como desenvolvedor e pesquisador, explorando novas linguagens, ferramentas e metodologias que contribuam para **criar experiências digitais acessíveis, escaláveis e inteligentes**.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
 <div align="center">
 
-<table style="background-color: white; border-collapse: collapse; width: 100%;">
-  <thead>
-    <tr>
-      <th width="10%">💻 Back-end</th>
-      <th width="10%">🎨 Front-end</th>
-      <th width="10%">📚 Frameworks</th>
-      <th width="10%">☁️ Cloud & DevOps</th>
-      <th width="10%">🧰 IDE's</th>
-      <th width="10%">🗄️ Banco de Dados</th>
-      <th width="10%">🔗 Integração</th>
-      <th width="10%">🧪 Testes</th>
-      <th width="10%">⚙️ Build Tools</th>
-      <th width="10%">🎯 Em Aprendizado</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python logo" /><br>Python
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java logo" /><br>Java
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript logo" /><br>JavaScript
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js logo" /><br>Node.js
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5 logo" /><br>HTML5
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3 logo" /><br>CSS3
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI logo" /><br>FastAPI
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask logo" /><br>Flask
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot logo" /><br>Spring Boot
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud logo" /><br>Google Cloud
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker logo" /><br>Docker
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode logo" /><br>VSCode
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ logo" /><br>IntelliJ IDEA
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio logo" /><br>Visual Studio
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL logo" /><br>PostgreSQL
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB logo" /><br>MongoDB
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase logo" /><br>Firebase
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git logo" /><br>Git
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="PyTest logo" /><br>PyTest
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="JUnit logo" /><br>JUnit
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="50" height="50" alt="Maven logo" /><br>Maven
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="50" height="50" alt="Gradle logo" /><br>Gradle
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React logo" /><br>React
-        <br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50" height="50" alt="AWS logo" /><br>AWS
-      </td>
-    </tr>
-  </tbody>
-</table>
+```
+██████╗ ███████╗██████╗ ██████╗  ██████╗
+██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔═══██╗
+██████╔╝█████╗  ██║  ██║██████╔╝██║   ██║
+██╔═══╝ ██╔══╝  ██║  ██║██╔══██╗██║   ██║
+██║     ███████╗██████╔╝██║  ██║╚██████╔╝
+╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+```
+
+### `backend engineer · ai integrations · cloud systems`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-andrade-0a8146235/)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucas0721@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23111111.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://gitfollio.vercel.app/PedroLuvaz)
 
 </div>
 
 ---
 
-### 🚀 Experiência Profissional
+## $ whoami
 
-#### 💼 **Desenvolvedor Back-End | Entrega+**
-**Período:** 2025 — Atual  
-Atuo no desenvolvimento do **Modall**, um sistema de **atendimento automatizado com IA e CRM integrado**, utilizando **Python, FastAPI, Flask, PostgreSQL, Firebase e Google Cloud**.  
-Sou responsável por pequenas manutençãoes dos serviços backend, integração com APIs e pipelines de dados, e automação de métricas de desempenho.
+Backend developer com foco em **sistemas de IA em produção**, **automação inteligente** e **arquitetura cloud-native**. Atuo no desenvolvimento do **Modall** (Entrega+) — uma plataforma de atendimento automatizado via WhatsApp com CRM integrado, processamento assíncrono e orquestração de múltiplos modelos de linguagem.
 
-> - Criação e manutenção de microsserviços com **FastAPI e Flask**.  
-> - Integração com **Firebase, BigQuery e PostgreSQL**.  
-> - Deploy e monitoramento via **Google Cloud** e **Docker**.  
-> - Desenvolvimento de **pipelines de dados** e automação de métricas analíticas.
+Formando em **Ciência da Computação pela UEPB** (previsão: dez/2026), com experiência paralela em pesquisa aplicada de usabilidade no **NUTES/LUFH**.
 
----
-
-#### 🧠 **Pesquisador e Desenvolvedor | NUTES - UEPB**
-**Período:** 2023 — 2025  
-Atuei no **Laboratório de Usabilidade e Fatores Humanos (NUTES/UEPB)** com foco em **Interação Humano-Computador (IHC)** e **tecnologias assistivas**.  
-Desenvolvi ferramentas em **C# (.NET)** para mensuração de desempenho em testes de usabilidade e análise de dados com grafos.
-
-> - Desenvolvimento de aplicações em **C# (.NET)** e **Entity Framework**.  
-> - Coleta e análise de métricas de desempenho de interfaces.  
-> - Aplicação de **avaliação heurística** e **modelagem de interações com grafos**.  
-> - Foco em **usabilidade e acessibilidade digital** em saúde e educação.
+```python
+pedro = {
+    "role":     "Backend Developer @ Entrega+",
+    "stack":    ["Python", "FastAPI", "Flask", "PostgreSQL", "GCP"],
+    "focus":    ["AI Integrations", "Async Systems", "Multi-tenant Architecture"],
+    "studying": ["C# .NET", "Systems Design", "UX Engineering"],
+    "location": "Campina Grande, PB — Brasil",
+}
+```
 
 ---
 
-### 🎓 Formação Acadêmica
-**Bacharelado em Ciência da Computação**  
-Universidade Estadual da Paraíba (UEPB)  
-Foco em **Engenharia de Software**, **Arquitetura de Sistemas** e **Inteligência Artificial**.
+## ⚙️ Stack Técnica
+
+<div align="center">
+
+**Back-end & APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**IA & Integrações**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_APIs-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+
+**Cloud & Infra**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Tasks](https://img.shields.io/badge/Cloud_Tasks-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Banco de Dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+
+</div>
 
 ---
 
-## 📂 Projetos em Destaque
+## 💼 Experiência
 
-| 💡 Projeto | Descrição |
-|-------------|------------|
-| [**eng2marketplace**](https://github.com/PedroLuvaz/eng2marketplace) | Marketplace desenvolvido em **Python + FastAPI**, com autenticação JWT e PostgreSQL. |
-| [**sistemaOdonto**](https://github.com/PedroLuvaz/sistemaOdonto) | Sistema de gestão odontológica em **C# (.NET)** com Entity Framework e SQL Server. |
-| [**Project-TubeTool**](https://github.com/PedroLuvaz/Project-TubeTool) | Projeto acadêmico em **Python** para automação de cálculos e análise de dados. |
+### 🔷 Backend Developer — Entrega+ *(2025 — atual)*
 
----
+Desenvolvimento do **Modall**, plataforma de automação de atendimento via WhatsApp com IA e CRM integrado.
 
-## 📊 Estatísticas do GitHub
+- Integração com **OpenAI Assistants API** (tool calling, thread management no Firestore)
+- Integração com **Gemini** e múltiplas APIs WhatsApp (Z-API, Meta, GreenAPI)
+- Processamento assíncrono com **Cloud Tasks** + execução idempotente
+- Controle de consumo por plano: limites, bloqueios e logging via **BigQuery**
+- Arquitetura **multi-tenant** com separação SQL + NoSQL (PostgreSQL + Firestore)
+- Fallback e retry em APIs externas; pool de conexões com `pre_ping`
+- Redirecionamento inteligente para atendimento humano e controle de horário comercial
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLuvaz&show_icons=true&theme=merko&hide_border=false&custom_title=Estatísticas%20do%20GitHub" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuvaz&layout=compact&theme=merko&hide_border=false&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens Mais Usadas"/>
-</p>
+### 🔷 Pesquisador & Desenvolvedor — NUTES/LUFH, UEPB *(2023 — 2025)*
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroLuvaz&radius=16&theme=merko&area=true&hide_border=false&custom_title=Gráfico%20de%20Atividades" alt="Gráfico de Atividades"/>
-</p>
+Laboratório de Usabilidade e Fatores Humanos — foco em **IHC e tecnologias assistivas**.
 
----
-
-### 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/pedro-andrade-0a8146235/)  
-📬 [Me envie um e-mail](mailto:pedrolucas0721@gmail.com)  
-🌐 [Portfólio - GitFolio](https://gitfollio.vercel.app/PedroLuvaz)
+- Desenvolvimento de ferramentas em **C# (.NET)** para mensuração de usabilidade
+- Coleta e análise de métricas de desempenho de interfaces com grafos
+- Aplicação de avaliação heurística e modelagem de interações
 
 ---
 
-> “A tecnologia deve ser feita para pessoas — não apenas para máquinas.” 💡
+## 🧱 Padrões Arquiteturais
+
+```
+✓ Arquitetura orientada a eventos       ✓ Controle de estado distribuído
+✓ Execução idempotente de tarefas       ✓ Tool calling com modelos de IA
+✓ Sistema multi-tenant                  ✓ Fallback e retry em APIs externas
+✓ Persistência híbrida SQL + NoSQL      ✓ Logging estruturado de tokens/custos
+✓ Controle transacional (SQLAlchemy)    ✓ Processamento assíncrono com filas
+```
+
+---
+
+## 📂 Projetos
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**eng2marketplace**](https://github.com/PedroLuvaz/eng2marketplace) | Marketplace com autenticação JWT e CRUD completo | Python · FastAPI · PostgreSQL |
+| [**sistemaOdonto**](https://github.com/PedroLuvaz/sistemaOdonto) | Sistema de gestão odontológica com ORM | C# · .NET · Entity Framework |
+| [**Project-TubeTool**](https://github.com/PedroLuvaz/Project-TubeTool) | Automação de cálculos e análise de dados | Python |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroLuvaz&show_icons=true&theme=github_dark&hide_border=true&custom_title=Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuvaz&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
+---
+
+## 🎓 Formação
+
+**Bacharelado em Ciência da Computação** — UEPB *(previsão: dez/2026)*  
+Ênfase em Engenharia de Software, Arquitetura de Sistemas e Inteligência Artificial.
+
+---
+
+<div align="center">
+
+*"Build systems that hold under pressure — the rest is detail."*
+
+</div>
