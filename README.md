@@ -28,10 +28,18 @@ Formando em **Ciência da Computação pela UEPB** (previsão: dez/2026), com ex
 ```python
 pedro = {
     "role":     "Backend Developer @ Entrega+",
-    "stack":    ["Python", "FastAPI", "Flask", "PostgreSQL", "GCP"],
-    "focus":    ["AI Integrations", "Async Systems", "Multi-tenant Architecture"],
-    "studying": ["C# .NET", "Systems Design", "UX Engineering"],
-    "location": "Campina Grande, PB — Brasil",
+    "education":"B.Sc. Computer Science @ UEPB",
+    "stack":    ["Python", "FastAPI", "Flask", "PostgreSQL", "Docker", "GCP"],
+    "focus":    ["Scalable APIs", "AI Integrations", "Async Processing", "Multi-tenant Systems"],
+    "experience": [
+        "REST API design & integration",
+        "Database modeling & optimization",
+        "Background jobs & scheduling",
+        "Clean code & maintainability"
+    ],
+    "studying": ["C#/.NET (WinForms)", "System Design", "Distributed Systems"],
+    "interests":["Algorithms", "Performance", "Backend Architecture"],
+    "location": "Santa Cruz do Capibaribe, PE - Brasil",
 }
 ```
 
